@@ -1,0 +1,18 @@
+/* tag color: #e6faf3
+text color: #015036
+*/
+
+.tag {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  width: 210px;
+  height: auto;
+  background-image: url("../../../assets/leftsidebar/leftsidebartag.svg");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 18px;
+  color: #015036;
+  padding: 10px 10px;
+}

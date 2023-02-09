@@ -1,0 +1,16 @@
+.container {
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+.outlet-div {
+  margin-left: 200px;
+  height: 100%;
+  margin-top: 50px;
+}
+
+/* WARNING: webkit-scrollbar is Non-standard*/
+/* ::-webkit-scrollbar {
+  width: 50px;
+} */

@@ -1,0 +1,28 @@
+/* main:#015036
+text color:#f1f3f5
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.tag-link {
+  display: block;
+  text-decoration: none;
+  width: 100%;
+  padding: 12px 0;
+  font-size: 20px;
+  border: none;
+  background-color: #015036;
+  color: #f1f3f5;
+  cursor: pointer;
+}
+
+.tag-link:hover,
+.tag-link :active {
+  border: none;
+  background-color: #cdf4e7;
+  color: #015036;
+}

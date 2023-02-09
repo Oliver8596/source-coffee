@@ -1,0 +1,402 @@
+[
+  {
+    "year": "2023",
+    "averagePrice": "1.61 ",
+    "yearOpen": "1.67 ",
+    "yearMax": "1.81 ",
+    "yearMin": "1.43 ",
+    "yearClose": "1.78 "
+  },
+  {
+    "year": "2022",
+    "averagePrice": "2.14 ",
+    "yearOpen": "2.23 ",
+    "yearMax": "2.58 ",
+    "yearMin": "1.52 ",
+    "yearClose": "1.67 "
+  },
+  {
+    "year": "2021",
+    "averagePrice": "1.69 ",
+    "yearOpen": "1.26 ",
+    "yearMax": "2.50 ",
+    "yearMin": "1.21 ",
+    "yearClose": "2.26 "
+  },
+  {
+    "year": "2020",
+    "averagePrice": "1.11 ",
+    "yearOpen": "1.27 ",
+    "yearMax": "1.34 ",
+    "yearMin": "0.94 ",
+    "yearClose": "1.28 "
+  },
+  {
+    "year": "2019",
+    "averagePrice": "1.02 ",
+    "yearOpen": "1.00 ",
+    "yearMax": "1.39 ",
+    "yearMin": "0.87 ",
+    "yearClose": "1.30 "
+  },
+  {
+    "year": "2018",
+    "averagePrice": "1.14 ",
+    "yearOpen": "1.30 ",
+    "yearMax": "1.30 ",
+    "yearMin": "0.96 ",
+    "yearClose": "1.02 "
+  },
+  {
+    "year": "2017",
+    "averagePrice": "1.33 ",
+    "yearOpen": "1.37 ",
+    "yearMax": "1.55 ",
+    "yearMin": "1.13 ",
+    "yearClose": "1.26 "
+  },
+  {
+    "year": "2016",
+    "averagePrice": "1.37 ",
+    "yearOpen": "1.24 ",
+    "yearMax": "1.74 ",
+    "yearMin": "1.12 ",
+    "yearClose": "1.37 "
+  },
+  {
+    "year": "2015",
+    "averagePrice": "1.33 ",
+    "yearOpen": "1.61 ",
+    "yearMax": "1.80 ",
+    "yearMin": "1.12 ",
+    "yearClose": "1.27 "
+  },
+  {
+    "year": "2014",
+    "averagePrice": "1.78 ",
+    "yearOpen": "1.11 ",
+    "yearMax": "2.22 ",
+    "yearMin": "1.11 ",
+    "yearClose": "1.67 "
+  },
+  {
+    "year": "2013",
+    "averagePrice": "1.26 ",
+    "yearOpen": "1.49 ",
+    "yearMax": "1.56 ",
+    "yearMin": "1.02 ",
+    "yearClose": "1.11 "
+  },
+  {
+    "year": "2012",
+    "averagePrice": "1.75 ",
+    "yearOpen": "2.27 ",
+    "yearMax": "2.35 ",
+    "yearMin": "1.40 ",
+    "yearClose": "1.44 "
+  },
+  {
+    "year": "2011",
+    "averagePrice": "2.53 ",
+    "yearOpen": "2.35 ",
+    "yearMax": "3.06 ",
+    "yearMin": "2.15 ",
+    "yearClose": "2.27 "
+  },
+  {
+    "year": "2010",
+    "averagePrice": "1.64 ",
+    "yearOpen": "1.42 ",
+    "yearMax": "2.41 ",
+    "yearMin": "1.29 ",
+    "yearClose": "2.41 "
+  },
+  {
+    "year": "2009",
+    "averagePrice": "1.26 ",
+    "yearOpen": "1.11 ",
+    "yearMax": "1.48 ",
+    "yearMin": "1.06 ",
+    "yearClose": "1.36 "
+  },
+  {
+    "year": "2008",
+    "averagePrice": "1.33 ",
+    "yearOpen": "1.34 ",
+    "yearMax": "1.68 ",
+    "yearMin": "1.03 ",
+    "yearClose": "1.12 "
+  },
+  {
+    "year": "2007",
+    "averagePrice": "1.18 ",
+    "yearOpen": "1.24 ",
+    "yearMax": "1.39 ",
+    "yearMin": "1.04 ",
+    "yearClose": "1.36 "
+  },
+  {
+    "year": "2006",
+    "averagePrice": "1.08 ",
+    "yearOpen": "1.09 ",
+    "yearMax": "1.29 ",
+    "yearMin": "0.94 ",
+    "yearClose": "1.26 "
+  },
+  {
+    "year": "2005",
+    "averagePrice": "1.08 ",
+    "yearOpen": "1.03 ",
+    "yearMax": "1.38 ",
+    "yearMin": "0.86 ",
+    "yearClose": "1.07 "
+  },
+  {
+    "year": "2004",
+    "averagePrice": "0.77 ",
+    "yearOpen": "0.69 ",
+    "yearMax": "1.08 ",
+    "yearMin": "0.66 ",
+    "yearClose": "1.04 "
+  },
+  {
+    "year": "2003",
+    "averagePrice": "0.62 ",
+    "yearOpen": "0.62 ",
+    "yearMax": "0.72 ",
+    "yearMin": "0.56 ",
+    "yearClose": "0.65 "
+  },
+  {
+    "year": "2002",
+    "averagePrice": "0.54 ",
+    "yearOpen": "0.47 ",
+    "yearMax": "0.73 ",
+    "yearMin": "0.43 ",
+    "yearClose": "0.60 "
+  },
+  {
+    "year": "2001",
+    "averagePrice": "0.56 ",
+    "yearOpen": "0.63 ",
+    "yearMax": "0.71 ",
+    "yearMin": "0.43 ",
+    "yearClose": "0.46 "
+  },
+  {
+    "year": "2000",
+    "averagePrice": "0.90 ",
+    "yearOpen": "1.17 ",
+    "yearMax": "1.19 ",
+    "yearMin": "0.65 ",
+    "yearClose": "0.66 "
+  },
+  {
+    "year": "1999",
+    "averagePrice": "1.04 ",
+    "yearOpen": "1.23 ",
+    "yearMax": "1.44 ",
+    "yearMin": "0.81 ",
+    "yearClose": "1.26 "
+  },
+  {
+    "year": "1998",
+    "averagePrice": "1.29 ",
+    "yearOpen": "1.71 ",
+    "yearMax": "1.82 ",
+    "yearMin": "1.01 ",
+    "yearClose": "1.18 "
+  },
+  {
+    "year": "1997",
+    "averagePrice": "1.79 ",
+    "yearOpen": "1.17 ",
+    "yearMax": "3.15 ",
+    "yearMin": "1.14 ",
+    "yearClose": "1.62 "
+  },
+  {
+    "year": "1996",
+    "averagePrice": "1.16 ",
+    "yearOpen": "0.91 ",
+    "yearMax": "1.36 ",
+    "yearMin": "0.91 ",
+    "yearClose": "1.17 "
+  },
+  {
+    "year": "1995",
+    "averagePrice": "1.46 ",
+    "yearOpen": "1.68 ",
+    "yearMax": "1.88 ",
+    "yearMin": "0.94 ",
+    "yearClose": "0.95 "
+  },
+  {
+    "year": "1994",
+    "averagePrice": "1.45 ",
+    "yearOpen": "0.73 ",
+    "yearMax": "2.47 ",
+    "yearMin": "0.72 ",
+    "yearClose": "1.69 "
+  },
+  {
+    "year": "1993",
+    "averagePrice": "0.69 ",
+    "yearOpen": "0.75 ",
+    "yearMax": "0.83 ",
+    "yearMin": "0.52 ",
+    "yearClose": "0.72 "
+  },
+  {
+    "year": "1992",
+    "averagePrice": "0.65 ",
+    "yearOpen": "0.79 ",
+    "yearMax": "0.82 ",
+    "yearMin": "0.48 ",
+    "yearClose": "0.78 "
+  },
+  {
+    "year": "1991",
+    "averagePrice": "0.86 ",
+    "yearOpen": "0.88 ",
+    "yearMax": "0.96 ",
+    "yearMin": "0.77 ",
+    "yearClose": "0.78 "
+  },
+  {
+    "year": "1990",
+    "averagePrice": "0.91 ",
+    "yearOpen": "0.81 ",
+    "yearMax": "1.04 ",
+    "yearMin": "0.78 ",
+    "yearClose": "0.89 "
+  },
+  {
+    "year": "1989",
+    "averagePrice": "1.06 ",
+    "yearOpen": "1.66 ",
+    "yearMax": "1.66 ",
+    "yearMin": "0.69 ",
+    "yearClose": "0.80 "
+  },
+  {
+    "year": "1988",
+    "averagePrice": "1.31 ",
+    "yearOpen": "1.26 ",
+    "yearMax": "1.59 ",
+    "yearMin": "1.09 ",
+    "yearClose": "1.59 "
+  },
+  {
+    "year": "1987",
+    "averagePrice": "1.16 ",
+    "yearOpen": "1.33 ",
+    "yearMax": "1.34 ",
+    "yearMin": "0.99 ",
+    "yearClose": "1.26 "
+  },
+  {
+    "year": "1986",
+    "averagePrice": "2.00 ",
+    "yearOpen": "2.59 ",
+    "yearMax": "2.73 ",
+    "yearMin": "1.33 ",
+    "yearClose": "1.37 "
+  },
+  {
+    "year": "1985",
+    "averagePrice": "1.49 ",
+    "yearOpen": "1.42 ",
+    "yearMax": "2.47 ",
+    "yearMin": "1.31 ",
+    "yearClose": "2.41 "
+  },
+  {
+    "year": "1984",
+    "averagePrice": "1.43 ",
+    "yearOpen": "1.38 ",
+    "yearMax": "1.57 ",
+    "yearMin": "1.34 ",
+    "yearClose": "1.42 "
+  },
+  {
+    "year": "1983",
+    "averagePrice": "1.31 ",
+    "yearOpen": "1.33 ",
+    "yearMax": "1.50 ",
+    "yearMin": "1.21 ",
+    "yearClose": "1.39 "
+  },
+  {
+    "year": "1982",
+    "averagePrice": "1.36 ",
+    "yearOpen": "1.42 ",
+    "yearMax": "1.60 ",
+    "yearMin": "1.20 ",
+    "yearClose": "1.30 "
+  },
+  {
+    "year": "1981",
+    "averagePrice": "1.22 ",
+    "yearOpen": "1.32 ",
+    "yearMax": "1.50 ",
+    "yearMin": "0.86 ",
+    "yearClose": "1.40 "
+  },
+  {
+    "year": "1980",
+    "averagePrice": "1.58 ",
+    "yearOpen": "1.78 ",
+    "yearMax": "2.03 ",
+    "yearMin": "1.04 ",
+    "yearClose": "1.27 "
+  },
+  {
+    "year": "1979",
+    "averagePrice": "1.78 ",
+    "yearOpen": "1.35 ",
+    "yearMax": "2.20 ",
+    "yearMin": "1.22 ",
+    "yearClose": "1.82 "
+  },
+  {
+    "year": "1978",
+    "averagePrice": "1.56 ",
+    "yearOpen": "1.95 ",
+    "yearMax": "2.01 ",
+    "yearMin": "1.09 ",
+    "yearClose": "1.33 "
+  },
+  {
+    "year": "1977",
+    "averagePrice": "2.32 ",
+    "yearOpen": "2.29 ",
+    "yearMax": "3.36 ",
+    "yearMin": "1.49 ",
+    "yearClose": "1.92 "
+  },
+  {
+    "year": "1976",
+    "averagePrice": "1.42 ",
+    "yearOpen": "0.87 ",
+    "yearMax": "2.24 ",
+    "yearMin": "0.87 ",
+    "yearClose": "2.24 "
+  },
+  {
+    "year": "1975",
+    "averagePrice": "0.66 ",
+    "yearOpen": "0.60 ",
+    "yearMax": "0.88 ",
+    "yearMin": "0.46 ",
+    "yearClose": "0.87 "
+  },
+  {
+    "year": "1974",
+    "averagePrice": "0.67 ",
+    "yearOpen": "0.69 ",
+    "yearMax": "0.79 ",
+    "yearMin": "0.50 ",
+    "yearClose": "0.60"
+  }
+]

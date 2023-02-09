@@ -1,0 +1,51 @@
+/* main:#015036
+text color:#f1f3f5
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: 15% 5% 10% 10% 10% 10% 10% 10% 10% 10%;
+  grid-template-rows: 50px;
+  background-color: #015036;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+.website-logo {
+  height: 60%;
+  width: auto;
+  display: inline-block;
+  padding: 10px 5px;
+}
+
+.website-name {
+  font-size: 15px;
+  display: inline-block;
+  text-align: left;
+  padding: 15px 0;
+}
+
+.logo-link {
+  text-decoration: none;
+  border: none;
+  background-color: #015036;
+  color: #f1f3f5;
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-template-rows: 100%;
+}
+
+.logo-button:hover,
+.logo-button :active {
+  border: none;
+  color: #f8f9fa;
+}

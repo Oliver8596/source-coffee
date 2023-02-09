@@ -1,0 +1,15 @@
+.container {
+  height: 100%;
+  width: 250px;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 6% 12% 12% 12% 12% 12% 12%;
+  background-image: url("../../assets/leftsidebar/leftsidebarlines.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 20%;
+  /* overflow-x: visible; */
+  /* overflow-y: scroll; */
+  position: fixed;
+  top: 60px;
+}
