@@ -62,7 +62,7 @@ export const HomePage: React.FC = () => {
             </div>
           </button>
         </div>
-        <div>哈哈</div>
+        <div>New feature</div>
       </div>
     </>
   );
